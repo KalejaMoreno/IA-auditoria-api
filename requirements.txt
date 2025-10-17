@@ -14,3 +14,8 @@ base64io  # para manejo base64 si deseas manipular flujos binarios (opcional)
 
 # --- Tipado MIME ---
 python-magic  # útil para detectar tipo MIME con más precisión (opcional)
+Flask
+torch
+torchvision
+pandas
+requests
