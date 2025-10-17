@@ -1,0 +1,17 @@
+# Ignorar entornos virtuales
+venv/
+.env
+
+# Archivos temporales
+__pycache__/
+temp/
+
+# Archivos grandes o modelos
+*.pt
+*.pkl
+*.h5
+*.onnx
+
+# Archivos de configuración de sistema
+.DS_Store
+Thumbs.db
